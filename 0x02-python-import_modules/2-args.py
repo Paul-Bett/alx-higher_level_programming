@@ -15,5 +15,5 @@ def print_arg(argv):
             i += 1
 
 if __name__ == "__main__":
-    from sys import argv
-    print_arg(argv)
+    import sys
+    print_arg(sys.argv)
