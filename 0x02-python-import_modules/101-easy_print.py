@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-import py_print
+_import_("os").write(1, "#python iscool\n".encode("UTF-8"))
