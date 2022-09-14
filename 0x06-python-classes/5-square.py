@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-
+'''
+Initialize Class Square
+'''
 
 class Square:
     '''Initialize Class Square
