@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 import math
+'''Magic Class reverses given class to bytecode
+'''
 
 
 class MagicClass:
