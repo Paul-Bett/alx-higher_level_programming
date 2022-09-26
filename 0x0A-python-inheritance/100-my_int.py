@@ -5,20 +5,19 @@
 
 class MyInt(int):
     def __init__(self, value):
-    '''Initializes MyInt inheritin Int properties
-       returns None
-    '''
+        '''Initializes MyInt inheritin Int properties
+           returns None
+        '''
         self.num = value
 
     def __eq__(self, other):
-    '''compares if both are equal
-       returns True
-    '''
+        '''compares if both are equal
+           returns True
+        '''
         return self.num != other
 
     def __ne__(self, other):
-    '''compares if both are equal
-       returns True
-    '''
+        '''compares if both are equal
+           returns True
+        '''
         return self.num == other
-
