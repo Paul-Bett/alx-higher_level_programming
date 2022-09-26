@@ -4,7 +4,7 @@
 
 
 def add_attribute(*args):
-    '''raises a TypeError with the message
+    '''raises a TypeError with the message if condition fails
        returns None
     '''
     if "main" in str(type(args[0])):
