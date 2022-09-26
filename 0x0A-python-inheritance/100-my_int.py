@@ -4,6 +4,8 @@
 
 
 class MyInt(int):
+    ''' Class: MyInt
+    '''
     def __init__(self, value):
         '''Initializes MyInt inheritin Int properties
            returns None
