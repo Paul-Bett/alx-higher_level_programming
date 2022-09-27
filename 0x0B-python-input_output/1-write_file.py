@@ -16,4 +16,3 @@ def write_file(filename="", text=""):
         for line in a_file:
             counter += 1
     return counter
-
